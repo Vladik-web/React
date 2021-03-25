@@ -1,0 +1,25 @@
+.navigation{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  background-color:red;
+}
+.navigation ul{
+  list-style: none;
+  text-align: center;
+}
+.navigation .item{
+  
+  
+  font-size: 30px;
+  margin:20px 0;
+}
+.navigation a{
+  color: #fff;
+  text-decoration: none;
+}
+.item.active{
+  font-size: 55px;
+}

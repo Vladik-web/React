@@ -15,43 +15,4 @@
   grid-template-rows: 150px 600px 150px;
   grid-gap: 15px;
 }
-.header{
-  grid-column: 1/3;
-  background-color: lightcoral;
-  
-  display: flex;
-  align-items: center;
-}
-.header img{
-  width: 100px;
-}
-.navigation{
-  
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  
-  background-color:red;
-}
-.navigation ul{
-  list-style: none;
-}
-.navigation li{
-  
-  text-align: center;
-  font-size: 30px;
-  margin:20px 0;
-}
-.navigation a{
-  color: #fff;
-  text-decoration: none;
-}
-.main{
-  background-color: green;
-  
-  
-}
-.footer{
-  grid-column: 1/3;
-  background-color: yellow;
-}
+
