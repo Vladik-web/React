@@ -1,6 +1,6 @@
 import React from "react";
 import classes from './Header.module.css'
-import search from './../images/search.png'
+import search from './../../images/search.png'
 
 const Header = () =>{
   
